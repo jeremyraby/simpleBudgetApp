@@ -42,7 +42,7 @@ The workbook has **8 sheets** but only a few are used daily.
 ---
 
 ## 🛠 Setup (One-Time Tasks)  
->[!Tip] 🌶️ Tip 
+
 >Try setting a timer (10-15 mins per section) to break setup into manageable chunks.  
 
 ### ✅ Step 1: [Expenses & Goals](https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg) *(~10 min)*
@@ -69,8 +69,7 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 | Current Balance | `$200` |
 | Date Needed | `06/30/2025` |
 | **Save per Month** | `$250` |
-
->[!Tip] 🌶️ Tip  
+ 
 >- **Break it into smaller chunks** – If the monthly savings feels too high (your Safe to Spend is unsustainably low), adjust your goal date or split the goal into phases.  
 >- **Automation** – Set up automated transfers between your checking & savings accounts each payday.  
 >- **Track progress** – Check your savings balance each payday to stay on track.
