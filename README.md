@@ -120,14 +120,10 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 🔹 **Right-click any tab > View All Sheets > Click the one you need.**  
 
 ### 6️⃣ Can I protect formulas from accidental edits?  
-✅ Yes! Go to **Data > Protect Sheets & Ranges** and select the yellow-highlighted cells and sheets. See video below for more info:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jBAr_Tx2SKQ?si=DZhnaKRwy6B60GXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+✅ Yes! Go to **Data > Protect Sheets & Ranges** and select the yellow-highlighted cells and sheets. Watch [this video](https://www.youtube.com/embed/jBAr_Tx2SKQ?si=DZhnaKRwy6B60GXz) for more info.
 
 ### 7️⃣ What's a "Conscious Spending Plan?" How's it different than a budget?
-📌 Ramit Sethi calls budgets "Conscious Spending Plans" and I tend to like the idea more than "budgets." I've simplified this idea a bit, though, into just "Needs," Wants," and "Savings." Learn more  in the video below:
-
-<iframe width="600" height="400" src="https://www.youtube.com/embed/unbA3nASp6g?si=ILGMKzuJYsJhrUfL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+📌 Ramit Sethi calls budgets "Conscious Spending Plans" and I tend to like the idea more than "budgets." I've simplified this idea a bit, though, into just "Needs," Wants," and "Savings." Watch [this video](https://www.youtube.com/embed/unbA3nASp6g?si=ILGMKzuJYsJhrUfL) for more info.
 
 ### 8️⃣ What if I don't know which "categories to watch?"
 ✅ Leave those options blank for a couple of pay cycles and use the **Desktop** to help identify categories where you could cut back.
