@@ -19,7 +19,9 @@ This is a **dupe** of the now-closed fintech bank and budget app **[Simple](http
 
 ## 📌 How It Works  
 
-The workbook has **8 sheets** but only a few are used daily.  
+The workbook has **8 sheets** but only a few are used daily.
+
+> Screenshots of each sheet can be seen in the file list above
 
 ### 🔵 Everyday Use (Blue Tabs)
 1. **Mobile** – A simplified dashboard for quick reference.  
@@ -43,7 +45,7 @@ The workbook has **8 sheets** but only a few are used daily.
 >[!Tip] 🌶️ Tip 
 >Try setting a timer (10-15 mins per section) to break setup into manageable chunks.  
 
-### ✅ Step 1: Expenses & Goals *(~10 min)*
+### ✅ Step 1: [Expenses & Goals](https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg) *(~10 min)*
 1. Enter your planned expenses & savings goals.  
 2. Assign each to a category (*Need*, *Want*, or *Savings*).  
 3. Enter any emergency savings you already have.  
@@ -73,14 +75,14 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 >- **Automation** – Set up automated transfers between your checking & savings accounts each payday.  
 >- **Track progress** – Check your savings balance each payday to stay on track.
 
-### ✅ Step 2: Categories *(~5 min)*
+### ✅ Step 2: [Categories](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg) *(~5 min)*
 1. Define spending categories (e.g., Groceries, Rent, Fun Money).  
 2. Pick **1-2 categories to watch** (for overspending awareness). 
 	1. These should be planned in the **Expenses & Goals** sheet.
 3. List income sources (e.g., Paycheck, Side Hustle, Cash Refunds).  
 4. 🔹 **Hide this sheet** when finished.  
 
-### ✅ Step 3: Income *(Only When Paid)*
+### ✅ Step 3: [Income](https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg) *(Only When Paid)*
 1. Enter income when received (**date, source, amount, notes**).  
 	1. Cash gifts, ATM withdrawals, and refunds all count
 2. Ignore the `#VALUE` error in `E1`—it disappears when income is logged.  
@@ -90,12 +92,12 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 
 ## 💰 Daily & Pay Cycle Workflow  
 
-### 🔹 Daily: Log Purchases in Activity *(~30 sec)*
+### 🔹 Daily: Log Purchases in [Activity](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg) *(~30 sec)*
 1. Enter purchases (**date, amount, store, category, notes**).  
-2. Check your **Safe to Spend** balance at the top of **Activity** or **Mobile**.  
+2. Check your **Safe to Spend** balance at the top of **Activity** or **[Mobile](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_light.jpg)**.  
 
 ### 🔹 End of Pay Cycle: Archive Data *(~5 sec)*
-1. Click the 🔵 **Archive Data** button (top of **Activity** sheet).  
+1. Click the 🔵 **[Archive Data](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg)** button (top of **Activity** sheet).  
 2. This **clears** your spending/income logs & saves them in **Archive**.  
 
 ---
