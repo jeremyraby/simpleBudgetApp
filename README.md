@@ -74,6 +74,16 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 >- **Automation** – Set up automated transfers between your checking & savings accounts each payday.  
 >- **Track progress** – Check your savings balance each payday to stay on track.
 
+#### 💰 Goal Tracker
+
+The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on your savings goals.
+
+##### 🔹 How It Works
+1. **Choose your goal name** – You can get these from the dropdown list (taken from the earlier categories you listed) or type in your own.
+2. **Enter your goal amount** – How much you need to save.
+3. **Enter your current balance** – How much you’ve already saved.
+4. **View your progress** - Track your progress on the **Desktop** dashboard!
+
 ### ✅ Step 2: [Categories](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg) *(~5 min)*
 1. Define spending categories (e.g., Groceries, Rent, Fun Money).  
 2. Pick **1-2 categories to watch** (for overspending awareness). 
