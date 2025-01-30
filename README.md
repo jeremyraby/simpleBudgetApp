@@ -116,6 +116,7 @@ Simple used to send push notifications for how much a 20% tip would be if the re
 
 ##### 📊 Example 
 |    |     |
+| --- | --- |
 | Bill | $10.00 |
 | Tip | $2.00 |
 | Total | $12.00 |
