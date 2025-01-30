@@ -2,7 +2,7 @@
 ## Overview
 This is a spending tracker that works like the [Simple](https://www.reviewed.com/money/features/simple-bank-review) banking app (closed in 2021 😭), keeping things easy and helping you stay organized. It's designed specifically for folks with *ADHD* and *dyscalculia*, so you won’t have to worry about complicated math or shelling out cash for fancy budgeting apps.
 
-There are **8 sheets** in total, but you’ll mostly use it to keep an eye on your spending (**Activity**) and check your balances (**Mobile, Desktop**). To kick things off, you’ll set up your expenses, goals, spending categories, and income. Then you just log your daily spending and the **Safe to Spend** balance will automatically update to show you how much you can spend without going overboard.
+There are **9 sheets** in total, but you’ll mostly use it to keep an eye on your spending (**Activity**) and check your balances (**Mobile, Desktop**). To kick things off, you’ll set up your expenses, goals, spending categories, and income. Then you just log your daily spending and the **Safe to Spend** balance will automatically update to show you how much you can spend without going overboard.
 
 **Copy to your Google Drive** [here](https://docs.google.com/spreadsheets/d/1WeH6dPeiR9xXTVT8iCC9FC4vh0ithbkBIbOhTTYMYIU/edit?usp=sharing)
 
@@ -19,14 +19,15 @@ This is a **dupe** of the now-closed fintech bank and budget app **[Simple](http
 
 ## 📌 How It Works  
 
-The workbook has **8 sheets** but only a few are used daily.
+The workbook has **9 sheets** but only a few are used daily.
 
 > Screenshots of each sheet can be seen in the file list above
 
 ### 🔵 Everyday Use (Blue Tabs)
 1. **Mobile** – A simplified dashboard for quick reference.  
-2. **Activity** – Where you log daily expenses.  
-3. **Desktop** – A larger dashboard with more visualizations.  
+2. **Activity** – Where you log daily expenses.
+3. **Tip Calc** - A default 20% tip calculator. 
+4. **Desktop** – A larger dashboard with more visualizations.  
 
 ### 🟢 Setup & Updates (Green Tabs)
 4. **Expenses & Goals** – Define planned expenses and savings goals.  
@@ -102,8 +103,23 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 ## 💰 Daily & Pay Cycle Workflow  
 
 ### 🔹 Daily: Log Purchases in [Activity](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg) *(~30 sec)*
-1. Enter purchases (**date, amount, store, category, notes**).  
-2. Check your **Safe to Spend** balance at the top of **Activity** or **[Mobile](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_light.jpg)**.  
+1. Check your **Safe to Spend** balance at the top of **Activity** or **[Mobile](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_light.jpg)**.
+2. Enter purchases (**date, amount, store, category, notes**).  
+3. Calculate tips on **Tip Calc**
+
+#### Tip Calc
+Simple used to send push notifications for how much a 20% tip would be if the recognized the vendor as a restaurant and I've made a similar function on this sheet.
+
+##### 🔹 How It Works
+1. Enter the check/bill amount.
+2. The system calculates how much a **20%** tip would be and how much the total is, including the tip.
+
+##### 📊 Example 
+|     |     |
+| --- | --- |
+| Bill | $10.00 |
+| Tip | $2.00 |
+| Total | $12.00 |
 
 ### 🔹 End of Pay Cycle: Archive Data *(~5 sec)*
 1. Click the 🔵 **[Archive Data](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg)** button (top of **Activity** sheet).  
