@@ -30,13 +30,13 @@ The workbook has **9 sheets** but only a few are used daily.
 4. **Desktop** – A larger dashboard with more visualizations.  
 
 ### 🟢 Setup & Updates (Green Tabs)
-4. **Expenses & Goals** – Define planned expenses and savings goals.  
-5. **Categories** – Set up spending and income categories.  
-6. **Income** – Log your income when received.  
+5. **Expenses & Goals** – Define planned expenses and savings goals.  
+6. **Categories** – Set up spending and income categories.  
+7. **Income** – Log your income when received.  
 
 ### 🟡 Behind-the-Scenes (Yellow Tabs)
-7. **Archive** – Stores past transactions for long-term tracking.  
-8. **Tables** – Handles calculations and reference data.  
+8. **Archive** – Stores past transactions for long-term tracking.  
+9. **Tables** – Handles calculations and reference data.  
 
 > Hide the **green and yellow tabs** after setup to keep your view clean.  
 
