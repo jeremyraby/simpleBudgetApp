@@ -37,7 +37,7 @@ The workbook has **8 sheets** but only a few are used daily.
 7. **Archive** – Stores past transactions for long-term tracking.  
 8. **Tables** – Handles calculations and reference data.  
 
-🔹 **Tip:** Hide the **green and yellow tabs** after setup to keep your view clean.  
+> Hide the **green and yellow tabs** after setup to keep your view clean.  
 
 ---
 
