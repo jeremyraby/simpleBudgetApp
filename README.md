@@ -127,6 +127,17 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 ### 8️⃣ What if I don't know which "categories to watch?"
 ✅ Leave those options blank for a couple of pay cycles and use the **Desktop** to help identify categories where you could cut back.
 
+### 9️⃣ How do I authorize Apps Script?  
+Good question! Follow the steps below when you first go to archive data:
+1. Click "OK" when prompted with "Authorization Required"
+2. Choose which Google account you want to use 
+3. Click "Advanced" when you see the "Google hasn't verified this app" screen
+4. Click "Go to ArchiveBudgetActivity (unsafe)"
+5. Click "Allow" on the "ArchiveBudgetActivity wants to access your Google Account"
+6. The script will run and you should see "Spending and income data archive successfully!"
+
+> Screenshots for the above can be found in the file list above
+> A README for the Apps Script is available [here](https://github.com/jeremyraby/simpleBudgetApp/blob/main/AppsScriptArchiveBudgetActivityREADME.md) and the actual code is [here](https://github.com/jeremyraby/simpleBudgetApp/blob/main/ArchiveBudgetActivity.ts) for you to review.
 ---
 
 ## 🧠 Tips for ADHD & Dyscalculia Users
