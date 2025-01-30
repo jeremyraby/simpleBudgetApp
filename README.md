@@ -108,7 +108,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 3. Calculate tips on **Tip Calc**
 
 #### Tip Calc
-Simple used to send push notifications for how much a 20% tip would be if the recognized the vendor as a restaurant and I've made a similar function on this sheet.
+Simple used to send push notifications for how much a 20% tip would be if the app recognized the vendor as a restaurant and I've made a similar function on this sheet.
 
 ##### 🔹 How It Works
 1. Enter the check/bill amount.
