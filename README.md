@@ -148,7 +148,7 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 ✅ Yes! Go to **Data > Protect Sheets & Ranges** and select the yellow-highlighted cells and sheets. Watch [this video](https://www.youtube.com/embed/jBAr_Tx2SKQ?si=DZhnaKRwy6B60GXz) for more info.
 
 ### 7️⃣ What's a "Conscious Spending Plan?" How's it different than a budget?
-📌 Ramit Sethi calls budgets "Conscious Spending Plans" and I tend to like the idea more than "budgets." I've simplified this idea a bit, though, into just "Needs," Wants," and "Savings." Watch [this video](https://www.youtube.com/embed/unbA3nASp6g?si=ILGMKzuJYsJhrUfL) for more info.
+📌 Ramit Sethi calls budgets "Conscious Spending Plans" and I tend to like the idea. I've simplified it a bit, though, into just "Needs," Wants," and "Savings." Your Safe to Spend counts as a "Want." Watch [this video](https://www.youtube.com/embed/unbA3nASp6g?si=ILGMKzuJYsJhrUfL) for more info.
 
 ### 8️⃣ What if I don't know which "categories to watch?"
 ✅ Leave those options blank for a couple of pay cycles and use the **Desktop** to help identify categories where you could cut back.
