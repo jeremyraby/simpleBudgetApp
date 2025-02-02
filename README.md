@@ -30,7 +30,7 @@ The workbook has **9 sheets** but only a few are used daily.
 > Screenshots of each sheet can be seen in the file list above
 
 ### 🔵 Everyday Use (Blue Tabs)
-1. **Mobile** – A simplified dashboard for quick reference.  
+1. [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_light.jpg) – A simplified dashboard for quick reference.  
 2. **Activity** – Where you log daily expenses.
 3. **Tip Calc** - A default 20% tip calculator. 
 4. **Desktop** – A larger dashboard with more visualizations.  
