@@ -1,6 +1,6 @@
 # README
 ## Overview
-This is a spending tracker that works like the [Simple](https://www.reviewed.com/money/features/simple-bank-review) banking app (closed in 2021 😭), keeping things easy and helping you stay organized. It's designed specifically for folks with *ADHD* and *dyscalculia*, so you won’t have to worry about complicated math or shelling out cash for fancy budgeting apps.
+This is a spending tracker that works like the [Simple](https://www.reviewed.com/money/features/simple-bank-review) banking app (closed in 2021 😭), to keep things easy and help you stay organized. It's designed specifically for folks with ADHD and dyscalculia, so you won’t have to worry about complicated math or shelling out cash for ultimately unhelpful budgeting apps.
 
 There are **9 sheets** in total, but you’ll mostly use it to keep an eye on your spending (**Activity**) and check your balances (**Mobile, Desktop**). To kick things off, you’ll set up your expenses, goals, spending categories, and income. Then you just log your daily spending and the **Safe to Spend** balance will automatically update to show you how much you can spend without going overboard.
 
