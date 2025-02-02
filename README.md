@@ -13,7 +13,13 @@ This is a **dupe** of the now-closed fintech bank and budget app **[Simple](http
 
 - **[Envelope budgeting](https://www.nerdwallet.com/article/finance/envelope-system#:~:text=%E2%80%9CCash%20stuffing%E2%80%9D%20%E2%80%94%20also%20known%20as%20the,to%20take%20an%20action%20on%20their%20website.)** (allocating money to specific categories)   
 
-- **[The Conscious Spending Plan](https://www.iwillteachyoutoberich.com/)** (Ramit Sethi's approach)   
+- **[The Conscious Spending Plan](https://www.iwillteachyoutoberich.com/)** (Ramit Sethi's approach)
+
+## Table of Contents
+- [How It Works](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-how-it-works)
+- [Set Up](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-setup-one-time-tasks)
+- [Workflow](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-daily--pay-cycle-workflow)
+- [FAQ](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-faq)
 
 ---
 
