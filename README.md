@@ -31,18 +31,18 @@ The workbook has **9 sheets** but only a few are used daily.
 
 ### 🔵 Everyday Use (Blue Tabs)
 1. [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_light.jpg) – A simplified dashboard for quick reference.  
-2. **Activity** – Where you log daily expenses.
-3. **Tip Calc** - A default 20% tip calculator. 
-4. **Desktop** – A larger dashboard with more visualizations.  
+2. [**Activity**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg) – Where you log daily expenses.
+3. [**Tip Calc**]() - A default 20% tip calculator. 
+4. [**Desktop**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop_1.jpg) – A larger dashboard with more visualizations.  
 
 ### 🟢 Setup & Updates (Green Tabs)
-5. **Expenses & Goals** – Define planned expenses and savings goals.  
-6. **Categories** – Set up spending and income categories.  
-7. **Income** – Log your income when received.  
+5. [**Expenses & Goals**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg) – Define planned expenses and savings goals.  
+6. [**Categories**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg) – Set up spending and income categories.  
+7. [**Income**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg) – Log your income when received.  
 
 ### 🟡 Behind-the-Scenes (Yellow Tabs)
-8. **Archive** – Stores past transactions for long-term tracking.  
-9. **Tables** – Handles calculations and reference data.  
+8. [**Archive**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/archive.jpg) – Stores past transactions for long-term tracking.  
+9. [**Tables**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/tables.jpg) – Handles calculations and reference data.  
 
 > Hide the **green and yellow tabs** after setup to keep your view clean.  
 
@@ -52,12 +52,12 @@ The workbook has **9 sheets** but only a few are used daily.
 
 >Try setting a timer (10-15 mins per section) to break setup into manageable chunks.  
 
-### ✅ Step 1: [Expenses & Goals](https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg) *(~10 min)*
+### ✅ Step 1: Expenses & Goals *(~10 min)*
 1. Enter your planned expenses & savings goals.  
 2. Assign each to a category (*Need*, *Want*, or *Savings*).  
 3. Enter any emergency savings you already have.  
 4. 🔹 **Hide this sheet** when finished.  
-#### 💰 Goal Calculator  
+#### 💰 [Goal Calculator ](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg) 
 
 The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine how much to save per month to reach a financial goal by a specific deadline.  
 
@@ -81,7 +81,7 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 >- **Automation** – Set up automated transfers between your checking & savings accounts each payday.  
 >- **Track progress** – Check your savings balance each payday to stay on track.
 
-#### 💰 Goal Tracker
+#### 💰 [Goal Tracker](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg)
 
 The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on your savings goals.
 
@@ -89,7 +89,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 1. **Choose your goal name** – You can get these from the dropdown list (taken from the earlier categories you listed) or type in your own.
 2. **Enter your goal amount** – How much you need to save.
 3. **Enter your current balance** – How much you’ve already saved.
-4. **View your progress** - Track your progress on the **Desktop** dashboard!
+4. **View your progress** - Track your progress on the [Desktop](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_tracker.jpg) dashboard!
 
 ### ✅ Step 2: [Categories](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg) *(~5 min)*
 1. Define spending categories (e.g., Groceries, Rent, Fun Money).  
@@ -113,7 +113,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 2. Enter purchases (**date, amount, store, category, notes**).  
 3. Calculate tips on **Tip Calc**
 
-#### Tip Calc
+#### [Tip Calc](https://github.com/jeremyraby/simpleBudgetApp/blob/main/tip_calc.jpg)
 Simple used to send push notifications for how much a 20% tip would be if the app recognized the vendor as a restaurant and I've made a similar function on this sheet.
 
 ##### 🔹 How It Works
