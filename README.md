@@ -6,6 +6,8 @@ There are **9 sheets** in total, but you’ll mostly use it to keep an eye on yo
 
 **Copy to your Google Drive** [here](https://docs.google.com/spreadsheets/d/1WeH6dPeiR9xXTVT8iCC9FC4vh0ithbkBIbOhTTYMYIU/edit?usp=sharing)
 
+Read up on recent **updates** to the sheet [here](https://github.com/jeremyraby/simpleBudgetApp/blob/main/changelog.md)
+
 ---
 ## In Detail
 
