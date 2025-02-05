@@ -21,6 +21,7 @@ This is a **dupe** of the now-closed fintech bank and budget app **[Simple](http
 - [How It Works](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-how-it-works)
 - [Set Up](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-setup-one-time-tasks)
 - [Workflow](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-daily--pay-cycle-workflow)
+- [Dashboards](https://github.com/jeremyraby/simpleBudgetApp/tree/main?tab=readme-ov-file#dashboards)
 - [FAQ](https://github.com/jeremyraby/simpleBudgetApp/blob/main/README.md#-faq)
 
 ---
