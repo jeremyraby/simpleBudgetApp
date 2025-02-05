@@ -55,7 +55,8 @@ The workbook has **9 sheets** but only a few are used daily.
 >Try setting a timer (10-15 mins per section) to break setup into manageable chunks.  
 
 ### ✅ Step 1: Expenses & Goals *(~10 min)*
-1. Enter your planned expenses & savings goals.  
+1. Enter your planned expenses & savings goals.
+   - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. 
 2. Assign each to a category (*Need*, *Want*, or *Savings*).  
 3. Enter any emergency savings you already have.  
 4. 🔹 **Hide this sheet** when finished.  
@@ -102,7 +103,8 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 
 ### ✅ Step 3: [Income](https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg) *(Only When Paid)*
 1. Enter income when received (**date, source, amount, notes**).  
-	1. Cash gifts, ATM withdrawals, and refunds all count
+    - Cash gifts, ATM withdrawals, and refunds all count
+    - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. This, obviously, means you need to enter this data each pay cycle, as opposed to simply your net income on your pay stub.
 2. Ignore the `#VALUE` error in `E1`—it disappears when income is logged.  
 3. 🔹 **Hide this sheet** after entering income.  
 
