@@ -36,7 +36,7 @@ The workbook has **9 sheets** but only a few are used daily.
 1. [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg) – A simplified dashboard for quick reference.  
 2. [**Activity**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg) – Where you log daily expenses.
 3. [**Tip Calc**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/tip_calc.jpg) - A default 20% tip calculator. 
-4. [**Desktop**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop_1.jpg) – A larger dashboard with more visualizations.  
+4. [**Desktop**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg) – A larger dashboard with more visualizations.  
 
 ### 🟢 Setup & Updates (Green Tabs)
 5. [**Expenses & Goals**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg) – Define planned expenses and savings goals.  
@@ -93,7 +93,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 1. **Choose your goal name** – You can get these from the dropdown list (taken from the earlier categories you listed) or type in your own.
 2. **Enter your goal amount** – How much you need to save.
 3. **Enter your current balance** – How much you’ve already saved.
-4. **View your progress** - Track your progress on the [Desktop](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_tracker.jpg) dashboard!
+4. **View your progress** - Track your progress on the [Desktop](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg) dashboard!
 
 ### ✅ Step 2: [Categories](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg) *(~5 min)*
 1. Define spending categories (e.g., Groceries, Rent, Fun Money).  
@@ -114,7 +114,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 ## 💰 Daily & Pay Cycle Workflow  
 
 ### 🔹 Daily: Log Purchases in [Activity](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg) *(~30 sec)*
-1. Check your **Safe to Spend** balance at the top of **Activity** or **[Mobile](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_light.jpg)**.
+1. Check your **Safe to Spend** balance at the top of **Activity** or **[Mobile](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg)**.
 2. Enter purchases (**date, amount, store, category, notes**).  
 3. Calculate tips on **Tip Calc**
 
@@ -140,7 +140,7 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 
 ## Dashboards
 
-There are two dashboards built for quickly analyzing your financial situation, [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg) and **Desktop**, named for the devices on which they're designed to be viewed.
+There are two dashboards built for quickly analyzing your financial situation, [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg) and [**Desktop**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg), named for the devices on which they're designed to be viewed.
 
 ### Mobile
 
