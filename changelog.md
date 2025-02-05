@@ -1,4 +1,15 @@
 # Changes
+## v1.02 (2025-02-05)
+
+### Desktop Dashboard Update
+v1.0 included a few visualizations that weren't super helpful, at least to me. I've changed the included visualizations to be more in line with the data I care to track:
+    - Conscious Spending Plan and Safe to Spend
+    - Total Income vs Total Spending
+    - Average Spending by Category
+    - Emergency Fund needs
+    - Short Term Goal progress
+    - Income sources and Total Income
+
 ## v1.01 (2025-02-04)
 
 ### Mobile Dashboard Update
