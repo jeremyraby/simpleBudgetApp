@@ -9,7 +9,7 @@ There are **9 sheets** in total, but you’ll mostly use it to keep an eye on yo
 Read up on recent **updates** to the sheet [here](https://github.com/jeremyraby/simpleBudgetApp/blob/main/changelog.md)
 
 ---
-## In Detail
+## Introduction
 
 This is a **dupe** of the now-closed fintech bank and budget app **[Simple](https://www.reddit.com/r/personalfinance/comments/ksj1ho/simple_is_being_shut_down/)**. It combines elements of  
 
@@ -134,6 +134,57 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 ### 🔹 End of Pay Cycle: Archive Data *(~5 sec)*
 1. Click the 🔵 **[Archive Data](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg)** button (top of **Activity** sheet).  
 2. This **clears** your spending/income logs & saves them in **Archive**.  
+
+---
+
+## Dashboards
+
+There are two dashboards built for quickly analyzing your financial situation, [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg) and **Desktop**, named for the devices on which they're designed to be viewed.
+
+### Mobile
+
+The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 3 "scorecards" and doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
+
+#### Scorecards 
+
+Safe to Spend -- much money you have available for "guilt free spending"
+2 scorecards for your "categories to watch," again, to help prevent overspending in these areas
+Cash -- if you've happened to enter a cash balance on the Income sheet, it will display here and be updated as you mark spending as "Cash"
+
+#### Doughnut Chart
+This displays a breakdown of your spending by category    
+
+### Desktop
+
+The Desktop dashboard is best viewed using the Google Sheets web app and isn't convenient on mobile devices. It contains six visualizations that should provide a more detailed analysis; each graph answers a question about your spending habits.
+
+#### First Row
+
+##### What's my spending plan?
+
+This is a doughnut chart built from the "conscious spending plan" you put together on the Expenses & Goals sheet. Also displayed is a scorecard chart showing your planned Safe to Spend.
+
+##### Am I overspending?
+
+This line chart plots your total income against your total spending. It's important to note that there will *always* be a non-zero level of spending, equal to your planned "needs" and "wants," displayed for months where no spending has been archived.
+
+##### What am I buying?
+
+This doughnut chart displays your average spending per category. Use it to help determine which, if any, categories need to be "watched" or if you can afford to let loose a bit more in other categories.
+
+#### Second Row
+
+##### What do I need for emergencies?
+
+This bar chart shows how much you need to save to cover 1 - 12 months of necessary expenses as well as how much you currently have saved. All of the calculations for these figures are multiplied by `1.15` to add 15% to the estimate, per [*I Will Teach You to be Rich*](https://www.iwillteachyoutoberich.com/books/), to account for any "forgotten" expenses. Feel free to change this if you want.
+
+##### How's my goal progress?
+
+This bar chart tracks your progress toward a short term savings goal.
+
+##### Where do I get my money?
+
+This doughnut chart displays your average income per source, in the case you're including multiple incomes, e.g. side hustles or your spouse's salary. I would use this to determine if any side hustles aren't worth my time relative to others, but it could also be useful for splitting household bills according to relative income. Also included is a scorecard displaying total income.
 
 ---
 
