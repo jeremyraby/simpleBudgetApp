@@ -144,13 +144,13 @@ There are two dashboards built for quickly analyzing your financial situation, [
 
 ### Mobile
 
-The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 3 "scorecards" and doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
+The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 3 "scorecards" and a doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
 
 #### Scorecards 
 
-Safe to Spend -- much money you have available for "guilt free spending"
-2 scorecards for your "categories to watch," again, to help prevent overspending in these areas
-Cash -- if you've happened to enter a cash balance on the Income sheet, it will display here and be updated as you mark spending as "Cash"
+- Safe to Spend -- much money you have available for "guilt free spending"
+- 2 scorecards for your "categories to watch," again, to help prevent overspending in these areas
+- Cash -- if you've happened to enter a cash balance on the Income sheet, it will display here and be updated as you mark spending as "Cash"
 
 #### Doughnut Chart
 This displays a breakdown of your spending by category    
