@@ -1,5 +1,5 @@
 # Changes
-## v1.01 (2025-02-02)
+## v1.01 (2025-02-04)
 
 ### Mobile Dashboard Update
 v1.0 included a bar chart displaying Safe to Spend, 2 "categories to watch", and a cash value, in addition to a donut chart breaking down spending categories. v1.01 now has "scorecard" charts in place of the bar chart. This should improve accessibility for mobile use. 
