@@ -137,7 +137,7 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 
 ### 🔹 End of Pay Cycle: Archive Data *(~5 sec)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg" alt="Archiving old data" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg" alt="Archiving old data" width="900" height="500">
 
 1. Click the 🔵 **Archive Data** button (top of Activity sheet).  
 2. This **clears** your spending/income logs & saves them in **Archive**.  
