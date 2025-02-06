@@ -57,7 +57,7 @@ The workbook has **9 sheets** but only a few are used daily.
 
 ### ✅ Step 1: Expenses & Goals *(~10 min)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg" alt="Expenses & Goals Tab" width="960" height="500">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg" alt="Expenses & Goals Tab" width="1000" height="500">
 
 1. Enter your planned expenses & savings goals.
    - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. 
