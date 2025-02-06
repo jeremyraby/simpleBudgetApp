@@ -87,7 +87,7 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 >- **Track progress** – Check your savings balance each payday to stay on track.
 
 #### 💰 [Goal Tracker](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg)
-
+![Goal Tracker](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_tracker.jpg)
 The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on your savings goals.
 
 ##### 🔹 How It Works
@@ -97,6 +97,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 4. **View your progress** - Track your progress on the [Desktop](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg) dashboard!
 
 ### ✅ Step 2: [Categories](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg) *(~5 min)*
+![Categories tab](https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg)
 1. Define spending categories (e.g., Groceries, Rent, Fun Money).  
 2. Pick **1-2 categories to watch** (for overspending awareness). 
 	1. These should be planned in the **Expenses & Goals** sheet.
@@ -104,6 +105,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 4. 🔹 **Hide this sheet** when finished.  
 
 ### ✅ Step 3: [Income](https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg) *(Only When Paid)*
+![Income tab](https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg)
 1. Enter income when received (**date, source, amount, notes**).  
     - Cash gifts, ATM withdrawals, and refunds all count
     - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. This, obviously, means you need to enter this data each pay cycle, as opposed to simply your net income on your pay stub.
@@ -115,11 +117,13 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 ## 💰 Daily & Pay Cycle Workflow  
 
 ### 🔹 Daily: Log Purchases in [Activity](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg) *(~30 sec)*
+![Logging transactions](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg)
 1. Check your **Safe to Spend** balance at the top of **Activity** or **[Mobile](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg)**.
 2. Enter purchases (**date, amount, store, category, notes**).  
 3. Calculate tips on **Tip Calc**
 
 #### [Tip Calc](https://github.com/jeremyraby/simpleBudgetApp/blob/main/tip_calc.jpg)
+![Calculating 20% tips](https://github.com/jeremyraby/simpleBudgetApp/blob/main/tip_calc.jpg)
 Simple used to send push notifications for how much a 20% tip would be if the app recognized the vendor as a restaurant and I've made a similar function on this sheet.
 
 ##### 🔹 How It Works
@@ -134,6 +138,7 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 | Total | $12.00 |
 
 ### 🔹 End of Pay Cycle: Archive Data *(~5 sec)*
+![Archiving old data](https://github.com/jeremyraby/simpleBudgetApp/blob/main/archive.jpg)
 1. Click the 🔵 **[Archive Data](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg)** button (top of **Activity** sheet).  
 2. This **clears** your spending/income logs & saves them in **Archive**.  
 
@@ -144,7 +149,7 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 There are two dashboards built for quickly analyzing your financial situation, [**Mobile**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg) and [**Desktop**](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg), named for the devices on which they're designed to be viewed.
 
 ### Mobile
-
+![Mobile dashboard](https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg)
 The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 3 "scorecards" and a doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
 
 #### Scorecards 
@@ -157,7 +162,7 @@ The Mobile dashboard is best viewed using the Google Sheets mobile app and may n
 This displays a breakdown of your spending by category    
 
 ### Desktop
-
+![Desktop dashboard](https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg)
 The Desktop dashboard is best viewed using the Google Sheets web app and isn't convenient on mobile devices. It contains six visualizations that should provide a more detailed analysis; each graph answers a question about your spending habits.
 
 #### First Row
