@@ -240,7 +240,8 @@ Good question! Follow the steps below when you first go to archive data:
 ---
 
 ## 🧠 Tips for ADHD & Dyscalculia Users
+- **HYSA**: Use a "high yield savings account" online bank that allows you to open both a checking account and savings account [**with sub-accounts**](https://www.iwillteachyoutoberich.com/emergency-fund/#6).
 - **Make it a habit**: Use a **daily notification** (Google Calendar, phone alarm) to log expenses.
-	- **Anchor it to other habits**: Do you use a receipt app like Fetch or Upside to get cash back rewards? Log your expenses whenever you scan the receipts!
+- **Anchor it to other habits**: Do you use a receipt app like Fetch or Upside to get cash back rewards? Log your expenses whenever you scan the receipts!
 - **Use the Mobile tab**: It’s designed for fast, on-the-go reference.  
 - **Customize categories**: Rename categories so they make sense to you! 
