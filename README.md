@@ -63,7 +63,7 @@ The workbook has **9 sheets** but only a few are used daily.
 3. Enter any emergency savings you already have.  
 4. 🔹 **Hide this sheet** when finished.  
 #### 💰 [Goal Calculator ](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg) 
-
+![Goal Calculator](https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg)
 The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine how much to save per month to reach a financial goal by a specific deadline.  
 
 ##### 🔹 How It Works 
