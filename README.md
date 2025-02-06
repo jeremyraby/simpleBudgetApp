@@ -119,7 +119,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 
 ### 🔹 Daily: Log Purchases in Activity *(~30 sec)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg" alt="Logging transactions" width="500" height="300">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg" alt="Logging transactions" width="300" height="700">
 
 1. Check your **Safe to Spend** balance at the top of **Activity** or **Mobile**.
 2. Enter purchases (**date, amount, store, category, notes**).  
