@@ -66,7 +66,7 @@ The workbook has **9 sheets** but only a few are used daily.
 4. 🔹 **Hide this sheet** when finished.  
 #### 💰 Goal Calculator 
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg" alt="Goal Calculator]" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_calc.jpg" alt="Goal Calculator]" width="900" height="500">
 
 The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine how much to save per month to reach a financial goal by a specific deadline.  
 
@@ -77,22 +77,13 @@ The **Goal Calculator** in the **Expenses & Goals** sheet helps you determine ho
 4. **Enter your target date** – When you need the money.  
 5. The system calculates how much you should save per month.  
 
-##### 📊 Example  
-| Input  | Example Value |
-|--------|--------------|
-| Goal Amount | `$1,200` |
-| Today's Date | `02/01/2025` |
-| Current Balance | `$200` |
-| Date Needed | `06/30/2025` |
-| **Save per Month** | `$250` |
- 
 >- **Break it into smaller chunks** – If the monthly savings feels too high (your Safe to Spend is unsustainably low), adjust your goal date or split the goal into phases.  
 >- **Automation** – Set up automated transfers between your checking & savings accounts each payday.  
 >- **Track progress** – Check your savings balance each payday to stay on track.
 
 #### 💰 Goal Tracker
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_tracker.jpg" alt="Goal Tracker" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/goal_tracker.jpg" alt="Goal Tracker" width="900" height="500">
 
 The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on your savings goals.
 
@@ -104,7 +95,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 
 ### ✅ Step 2: Categories *(~5 min)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg" alt="Categories tab" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/categories.jpg" alt="Categories tab" width="900" height="500">
 
 1. Define spending categories (e.g., Groceries, Rent, Fun Money).  
 2. Pick **1-2 categories to watch** (for overspending awareness). 
@@ -114,7 +105,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 
 ### ✅ Step 3: Income *(Only When Paid)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg" alt="Income tab" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/income.jpg" alt="Income tab" width="900" height="500">
 
 1. Enter income when received (**date, source, amount, notes**).  
     - Cash gifts, ATM withdrawals, and refunds all count
@@ -128,7 +119,7 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 
 ### 🔹 Daily: Log Purchases in Activity *(~30 sec)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg" alt="Logging transactions" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_light.jpg" alt="Logging transactions" width="500" height="300">
 
 1. Check your **Safe to Spend** balance at the top of **Activity** or **Mobile**.
 2. Enter purchases (**date, amount, store, category, notes**).  
@@ -144,18 +135,11 @@ Simple used to send push notifications for how much a 20% tip would be if the ap
 1. Enter the check/bill amount.
 2. The system calculates how much a **20%** tip would be and how much the total is, including the tip.
 
-##### 📊 Example 
-|    |     |
-| --- | --- |
-| Bill | $10.00 |
-| Tip | $2.00 |
-| Total | $12.00 |
-
 ### 🔹 End of Pay Cycle: Archive Data *(~5 sec)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/archive.jpg" alt="Archiving old data" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg" alt="Archiving old data" width="300" height="200">
 
-1. Click the 🔵 **[Archive Data](https://github.com/jeremyraby/simpleBudgetApp/blob/main/activity_desktop.jpg)** button (top of **Activity** sheet).  
+1. Click the 🔵 **Archive Data** button (top of Activity sheet).  
 2. This **clears** your spending/income logs & saves them in **Archive**.  
 
 ---
@@ -166,7 +150,7 @@ There are two dashboards built for quickly analyzing your financial situation, *
 
 ### Mobile
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg" alt="Mobile dashboard" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg" alt="Mobile dashboard" width="500" height="300">
 
 The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 3 "scorecards" and a doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
 
@@ -181,7 +165,7 @@ This displays a breakdown of your spending by category
 
 ### Desktop
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg" alt="Desktop dashboard" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/desktop.jpg" alt="Desktop dashboard" width="900" height="500">
 
 The Desktop dashboard is best viewed using the Google Sheets web app and isn't convenient on mobile devices. It contains six visualizations that should provide a more detailed analysis; each graph answers a question about your spending habits.
 
