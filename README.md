@@ -33,7 +33,7 @@ The workbook has **9 sheets** but only a few are used daily.
 > Screenshots of each sheet can be seen in the file list above
 
 ### 🔵 Everyday Use (Blue Tabs)
-1. **Mobile**– A simplified dashboard for quick reference.  
+1. **Mobile** – A simplified dashboard for quick reference.  
 2. **Activity** – Where you log daily expenses.
 3. **Tip Calc** - A default 20% tip calculator. 
 4. **Desktop** – A larger dashboard with more visualizations.  
@@ -57,7 +57,7 @@ The workbook has **9 sheets** but only a few are used daily.
 
 ### ✅ Step 1: Expenses & Goals *(~10 min)*
 
-<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg" alt="Expenses & Goals Tab" width="300" height="200">
+<img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/expenses_goals.jpg" alt="Expenses & Goals Tab" width="500" height="400">
 
 1. Enter your planned expenses & savings goals.
    - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. 
