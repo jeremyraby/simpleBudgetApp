@@ -152,7 +152,7 @@ There are two dashboards built for quickly analyzing your financial situation, *
 
 <img src="https://github.com/jeremyraby/simpleBudgetApp/blob/main/mobile_v1.01.jpg" alt="Mobile dashboard" width="300" height="600">
 
-The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 3 "scorecards" and a doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
+The Mobile dashboard is best viewed using the Google Sheets mobile app and may not be even the least usable on desktop. It contains five visualizations, 4 "scorecards" and a doughnut chart, that should provide the most necessary and useful information when you're out in the wild:
 
 #### Scorecards 
 
