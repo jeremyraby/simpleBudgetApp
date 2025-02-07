@@ -14,7 +14,7 @@ Formula:
 `C1:D1` contains the **Safe to Spend** formula that updates as you log spending
 
 Formula:
-`=ROUND(Tables!B4 - SUMIFS(Activity!B3:B,Activity!D3:D,"<>Cash",Activity!D3:D,"<>Groceries",Activity!D3:D,"<>Eating Out")
+`=ROUND(Tables!B4 - SUMIFS(Activity!B3:B,Activity!D3:D,"<>Cash",Activity!D3:D,"<>"&Categories!C2,Activity!D3:D,"<>"&Categories!C3)
 ,2)`
 
 Explanation:
