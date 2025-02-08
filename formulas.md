@@ -66,7 +66,19 @@ Formula:
 
 ## Tables Tab
 
+There are 4 pivot tables & 5 manual/self-made tables. All tables are named for what is being calculated, so if something breaks it should be realtively easy to recreate, most especially the pivot tables.
 
+### Pivot Tables
 
+Pivot tables are in the following ranges:
+
+- `E:F`: Spending by Category
+- `N:O`: Average Spending by Category
+- `Q:R`: Average Income by Source
+- `T:V`: Short Term Goal Tracker
+
+### Manual Tables
+
+The manual tables generally consist of various formulas
 
 
