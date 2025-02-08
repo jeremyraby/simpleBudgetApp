@@ -59,6 +59,11 @@ Formula:
 `B2` multiplies `B1` by 1.2 then subtracts `B1` to calculate how much a 20% tip is.
 `B3` sums `B1:B2`
 
+| Cell | Formula |
+| --- | --- |
+| B2 | `=(Bill*1.2)-Bill` |
+| B3 | `=SUM(Bill,Tip)` |
+
 ## Tables Tab
 
 
