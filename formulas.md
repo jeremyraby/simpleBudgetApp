@@ -85,6 +85,14 @@ Pivot tables are in the following ranges:
 
 The manual tables generally consist of various formulas
 
-#### Safe to Spend (`A:C`)
+#### Safe to Spend
+- `A:C`
+
+| Category | Planned | Actual |
+| --- | --- | --- |
+| Safe to Spend | `=IF(ISBLANK(Income!E2),0,ROUND(Income!E2 - SUM('Expenses & Goals'!C3:C) - SUMIFS(Activity!$B3:$B,Activity!$D3:$D,"Cash"),2))` | `=Activity!$C$1-SUMIFS(Activity!$B3:$B,Activity!$D3:$D,"Cash")` |
+| `=Categories!$C2` | `=IF(ISBLANK(Income!E2),0,Categories!$D$2)` | `=B5-SUMIFS(Activity!$B$3:$B,Activity!$D$3:$D,"="&Categories!C2)` |
+| `=Categories!$C3` | `=IF(ISBLANK(Income!E2),0,Categories!$D$3)` | `=B6-SUMIFS(Activity!$B$3:$B,Activity!$D$3:$D,"="&Categories!C3)` |
+| Cash | 0 | `=SUMIF(Income!B$2:B,"Cash",Income!C$2:C)-(SUMIF(Activity!$D3:$D,"Cash",Activity!$B3:$B))` |
 
 
