@@ -106,7 +106,16 @@ The manual tables generally consist of various formulas
 | Investment | `=ROUND(SUMIF('Expenses & Goals'!$B$3:$B,"Investment",'Expenses & Goals'!$C$3:$C),2)` |
 
 #### Emergency Fund
+- `K:L`
 
+| Timeframe | Amount |
+| --- | --- |
+| 1 month | `=round((SUM('Expenses & Goals'!$F3:F)*1.15),2)` |
+| 3 months | `=round((SUM('Expenses & Goals'!$F3:F)*3)*1.15,2)` |
+| 6 months | `=round((SUM('Expenses & Goals'!$F3:F)*6)*1.15,2)` |
+| 9 months | `=round((SUM('Expenses & Goals'!$F3:F)*9)*1.15,2)` |
+| 1 year | `=round((SUM('Expenses & Goals'!$F3:F)*12)*1.15,2)` |
+| Have | `=ROUND(SUM('Expenses & Goals'!$I3:$I),2)` |
 
 
 
