@@ -62,7 +62,7 @@ The workbook has **9 sheets** but only a few are used daily.
 
 1. Enter your planned expenses & savings goals.
    - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. 
-2. Assign each to a category (*Need*, *Want*, or *Savings*).  
+2. Assign each to a category (*Needs*, *Wants*, *Savings*, or *Investments*).  
 3. Enter any emergency savings you already have.  
 4. 🔹 **Hide this sheet** when finished.  
 #### 💰 Goal Calculator 
@@ -221,7 +221,7 @@ This doughnut chart displays your average income per source, in the case you're 
 ✅ Yes! Go to **Data > Protect Sheets & Ranges** and select the yellow-highlighted cells and sheets. Watch [this video](https://www.youtube.com/embed/jBAr_Tx2SKQ?si=DZhnaKRwy6B60GXz) for more info.
 
 ### 7️⃣ What's a "Conscious Spending Plan?" How's it different than a budget?
-📌 Ramit Sethi calls budgets "Conscious Spending Plans" and I tend to like the idea. I've simplified it a bit, though, into just "Needs," Wants," and "Savings." Your Safe to Spend counts as a "Want." Watch [this video](https://www.youtube.com/embed/unbA3nASp6g?si=ILGMKzuJYsJhrUfL) for more info.
+📌 Ramit Sethi calls budgets "Conscious Spending Plans" and I tend to like the idea. Watch [this video](https://www.youtube.com/embed/unbA3nASp6g?si=ILGMKzuJYsJhrUfL) for more info.
 
 ### 8️⃣ What if I don't know which "categories to watch?"
 ✅ Leave those options blank for a couple of pay cycles and use the **Desktop** to help identify categories where you could cut back.
