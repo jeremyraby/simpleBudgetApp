@@ -95,4 +95,24 @@ The manual tables generally consist of various formulas
 | `=Categories!$C3` | `=IF(ISBLANK(Income!E2),0,Categories!$D$3)` | `=B6-SUMIFS(Activity!$B$3:$B,Activity!$D$3:$D,"="&Categories!C3)` |
 | Cash | 0 | `=SUMIF(Income!B$2:B,"Cash",Income!C$2:C)-(SUMIF(Activity!$D3:$D,"Cash",Activity!$B3:$B))` |
 
+#### Conscious Spending Plan
+- `H:I`
+
+| Category | Amount |
+| --- | --- |
+| Needs | `=ROUND(SUMIF('Expenses & Goals'!$B$3:$B,"Need",'Expenses & Goals'!$C$3:$C),2)` |
+| Wants | `=ROUND(SUMIF('Expenses & Goals'!$B$3:$B,"Want",'Expenses & Goals'!$C$3:$C) + Tables!B4,2)` |
+| Savings | `=ROUND(SUMIF('Expenses & Goals'!$B$3:$B,"Savings",'Expenses & Goals'!$C$3:$C),2)` |
+| Investment | `=ROUND(SUMIF('Expenses & Goals'!$B$3:$B,"Investment",'Expenses & Goals'!$C$3:$C),2)` |
+
+#### Emergency Fund
+
+
+
+
+
+
+
+
+
 
