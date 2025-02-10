@@ -73,12 +73,18 @@ There are 4 pivot tables & 5 manual/self-made tables. All tables are named for w
 Pivot tables are in the following ranges:
 
 - `E:F`: Spending by Category
+  - `Activity!A2:D49` 
 - `N:O`: Average Spending by Category
+  - `Archive!A2:D976` 
 - `Q:R`: Average Income by Source
+  - `Archive!G2:I976` 
 - `T:V`: Short Term Goal Tracker
+  - `'Expenses & Goals'!N2:P20` 
 
 ### Manual Tables
 
 The manual tables generally consist of various formulas
+
+#### Safe to Spend (`A:C`)
 
 
