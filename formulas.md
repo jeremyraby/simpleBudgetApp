@@ -54,7 +54,7 @@ This is a collection of each formula used on each worksheet, grouped by which se
 
 | Cell | Formula |
 | --- | --- |
-| E1 | `=QUERY(Income!A:C, "SELECT SUM(C) LABEL SUM(C) 'Total Income'", 0) |
+| E1 | `=QUERY(Income!A:C, "SELECT SUM(C) LABEL SUM(C) 'Total Income'", 0)` |
 
 ## Activity Tab
 
