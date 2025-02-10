@@ -48,13 +48,13 @@ This is a collection of each formula used on each worksheet, grouped by which se
 
 ## Income Tab
 
-`E1` contains a `QUERY` that calculates total income. This is used so that `$0` is used in varous other formulas if no income has been logged.
+`E1` contains a `QUERY` that calculates total income. This is used so that `$0` is used in varous other formulas if no income has been logged. If no income has yet been added, "Income Needed" will display.
 
 ### Formulas
 
 | Cell | Formula |
 | --- | --- |
-| E1 | `=QUERY(Income!A:C, "SELECT SUM(C) LABEL SUM(C) 'Total Income'", 0)` |
+| E1 | `=IFERROR(QUERY(Income!A:C, "SELECT SUM(C) LABEL SUM(C) 'Total Income'", 0),"Income Needed")` |
 
 ## Activity Tab
 
