@@ -117,6 +117,16 @@ The manual tables generally consist of various formulas
 | 1 year | `=round((SUM('Expenses & Goals'!$F3:F)*12)*1.15,2)` |
 | Have | `=ROUND(SUM('Expenses & Goals'!$I3:$I),2)` |
 
+#### Income vs Spending
+- `X:AB`
+
+| Month (num) | Month (abr) | Income | Spending | YTD Income |
+| --- | --- | --- | --- | --- |
+| 1 | Jan | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X4)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X4)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | `=SUM(Z4:Z15)` |
+| 2 | Fed | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X5)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X5)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | |
+...
+| 12 | Dec | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X15)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X15)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | |
+
 
 
 
