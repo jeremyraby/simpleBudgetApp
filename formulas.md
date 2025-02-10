@@ -133,7 +133,7 @@ The manual tables generally consist of various formulas
 | Month (num) | Month (abr) | Income | Spending | YTD Income |
 | --- | --- | --- | --- | --- |
 | 1 | Jan | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X4)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X4)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | `=SUM(Z4:Z15)` |
-| 2 | Fed | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X5)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X5)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | |
+| 2 | Feb | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X5)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X5)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | |
 ...
 | 12 | Dec | `=SUMIFS(Archive!$I$3:$I, ARRAYFORMULA(MONTH(Archive!$G$3:$G)),X15)` | `=SUMIFS(Archive!$B$3:$B, ARRAYFORMULA(MONTH(Archive!$A$3:$A)),X15)+(SUM($I$4:I$5)-SUM($B$4:B$6))` | |
 
