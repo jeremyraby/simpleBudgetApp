@@ -1,5 +1,15 @@
 # How the sausage gets made
 
+This is a collection of each formula used on each worksheet, grouped by which section of the sheet the formula is in. Use this for troubleshooting if a formula breaks or if you want to change something on your own.
+
+## Table of Contents
+- [Expenses & Goals](https://github.com/jeremyraby/simpleBudgetApp/blob/main/formulas.md#expenses--goals-tab)
+- [Categories](https://github.com/jeremyraby/simpleBudgetApp/blob/main/formulas.md#categories-tab)
+- [Income](https://github.com/jeremyraby/simpleBudgetApp/blob/main/formulas.md#income-tab)
+- [Activity](https://github.com/jeremyraby/simpleBudgetApp/blob/main/formulas.md#activity-tab)
+- [Tips](https://github.com/jeremyraby/simpleBudgetApp/blob/main/formulas.md#tips-tab)
+- [Tables](https://github.com/jeremyraby/simpleBudgetApp/blob/main/formulas.md#tables-tab)
+
 ## Expenses & Goals Tab
 
 ### Emergency Conscious Spending Plan
