@@ -110,9 +110,8 @@ The **Goal Tracker** in the **Expenses & Goals** sheet helps you keep an eye on 
 
 1. Enter income when received (**date, source, amount, notes**).  
     - Cash gifts, ATM withdrawals, and refunds all count
-    - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. This, obviously, means you need to enter this data each pay cycle, as opposed to simply your net income on your pay stub.
-2. Ignore the `#VALUE` error in `E1`—it disappears when income is logged.  
-3. 🔹 **Hide this sheet** after entering income.  
+    - If you enter your pre-tax investment contributions, e.g. 401(k), as a "savings" expense, you can also enter it as Income to get a more complete "savings rate" calculation on the Desktop dashboard. This, obviously, means you need to enter this data each pay cycle, as opposed to simply your net income on your pay stub. 
+2. 🔹 **Hide this sheet** after entering income.  
 
 ---
 
