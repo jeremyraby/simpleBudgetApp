@@ -97,6 +97,10 @@ The manual tables generally consist of various formulas
 
 #### Safe to Spend
 - `A:C`
+- This is where the figures for the Safe to Spend & "Categories to Watch" are calculated.
+  - Col 1 references the category
+  - Col 2 shows how much is planned for the category
+  - Col 3 subtracts spending in that cateogory from the plan 
 
 | Category | Planned | Actual |
 | --- | --- | --- |
