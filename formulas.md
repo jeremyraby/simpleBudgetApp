@@ -111,6 +111,7 @@ The manual tables generally consist of various formulas
 
 #### Conscious Spending Plan
 - `H:I`
+- Sums the total amount planned for each of the four Conscious Spending Plan categories
 
 | Category | Amount |
 | --- | --- |
