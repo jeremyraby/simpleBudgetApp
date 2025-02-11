@@ -137,7 +137,8 @@ The manual tables generally consist of various formulas
 - `X:AB`
 - Col 3 sums all of the income from the Archive tab if the month matches Col 1
 - Col 4 sums all of the expenses from the Archive tab if the month matches Col 1
-  -  Planned spending, eg what's in the Conscious Spending Plan, is added to archived expenses to get a true figure for Total Spending 
+  -  Planned spending, eg what's in the Conscious Spending Plan as a Need or Want, is added to archived expenses to get a true figure for Total Spending
+  -  Planned spending for Safe to Spend and Categories to Watch is then subtracted to prevent double counting 
 - YTD Income sums all income for the year that is in the Archive tab
 
 | Month (num) | Month (abr) | Income | Spending | YTD Income |
