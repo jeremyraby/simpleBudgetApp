@@ -122,6 +122,7 @@ The manual tables generally consist of various formulas
 
 #### Emergency Fund
 - `K:L`
+- Sums the amount of total *emergency* expenses, multiplied by 1/3/6/9/12 months, then multiplied by `1.15` to add 15% in order to account for "forgotten" expenses
 
 | Timeframe | Amount |
 | --- | --- |
